@@ -51,6 +51,7 @@ def main():
 
         choix = input("\nVotre choix : \n")
 
+        # Remplacer ça par un switch case
         if choix == "1":
             afficher_taches(taches)
         elif choix == "2":
