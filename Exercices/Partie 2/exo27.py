@@ -1,4 +1,4 @@
-# . Écrivez une fonction qui prend une liste de nombres et retourne leur moyenne
+# Écrivez une fonction qui prend une liste de nombres et retourne leur moyenne
 
 def moyenne(liste):
     return sum(liste) / len(liste) # Une moyenne est la somme des éléments d'une liste divisée par le nombre d'éléments de la liste

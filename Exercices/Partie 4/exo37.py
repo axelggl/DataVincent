@@ -1,6 +1,6 @@
 import json
 import os
-
+    
 # Fonction pour charger les tâches depuis un fichier JSON
 def charger_taches():
     if os.path.exists("taches.json"):
